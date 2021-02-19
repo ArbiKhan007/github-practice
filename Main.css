@@ -1,0 +1,29 @@
+.form {
+  display: flex;
+}
+
+.header {
+  background-color: darksalmon;
+  display: flex;
+}
+.navbar-brand {
+  color: #fff;
+  cursor: pointer;
+  line-height: inherit;
+  text-align: center;
+  padding: 10px;
+}
+
+.navbar-brand:hover {
+  color: #000;
+}
+
+.form-input {
+  float: left;
+  display: flex;
+}
+
+.userinput {
+  margin: 0.6rem 0;
+  margin-right: 0.3rem;
+}
